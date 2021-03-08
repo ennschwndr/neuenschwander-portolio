@@ -1,2 +1,1 @@
-# horiseon-landing
 # neuenschwander-portfolio
